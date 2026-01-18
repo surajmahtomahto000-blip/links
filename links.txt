@@ -1,0 +1,10 @@
+img :- 
+
+https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sixn.jpg
+https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sixa.jpg
+
+
+zip :- 
+
+https://github.com/Suraj44334/My-wallpaper/releases/download/%23wallpaper/sixn.zip
+https://github.com/Suraj44334/My-wallpaper-advance-/releases/download/%23w/sixA.zip

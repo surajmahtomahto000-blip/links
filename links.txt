@@ -2,3 +2,11 @@
 2=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/dogfe.zip
 3=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/wow.jpg
 4=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/wow.zip
+5=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sup.jpg
+6=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sup.zip
+7=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/hero.jpg
+8=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/hero.zip
+9=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/ab.jpg
+10=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/ab.zip
+11=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/and.jpg
+12=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/and.zip

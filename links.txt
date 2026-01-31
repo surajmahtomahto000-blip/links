@@ -5,6 +5,8 @@
 11=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/krishna.jpg
 1=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/doggunn.jpg
 
+13=https://github.com/Suraj44334/Gygon-/releases/download/%23walls/sixf.jpg
+14=https://github.com/Suraj44334/Gygon-/releases/download/%23walls/sixf.zip
 4=https://github.com/Suraj44334/Gygon-/releases/download/%23walls/Hanuman.zip
 6=https://github.com/Suraj44334/Gygon-/releases/download/%23walls/motivation.zip
 8=https://github.com/Suraj44334/Gygon-/releases/download/%23walls/baba.zip

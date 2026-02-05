@@ -3,4 +3,5 @@
 3=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sixn.jpg
 5=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sixa.jpgSuper/main/dog.jpg
 6=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/vid1.mp4
+7=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/imgvif.mp4
 8=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/vif.mp4

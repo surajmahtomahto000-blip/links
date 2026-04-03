@@ -4,3 +4,7 @@
 4=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/vid4.mp4
 5=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/vid5.jpg
 6=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/vid6.mp4
+7=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid7.jpg
+8=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid8.mp4
+9=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid9.jpg
+10=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid10.mp4

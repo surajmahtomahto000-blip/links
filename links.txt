@@ -1,7 +1,7 @@
 1=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/doggunn.jpg
 2=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/dogfe.zip
-3=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/wow.jpg
-4=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/wow.zip
+3=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/wow.jpg
+4=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/wow.zip
 5=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sup.jpg
 6=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sup.zip
 7=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/hero.jpg

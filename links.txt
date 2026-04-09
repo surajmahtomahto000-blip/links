@@ -4,8 +4,8 @@
 4=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/wow.zip
 5=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sup.jpg
 6=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/sup.zip
-7=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/hero.jpg
-8=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/hero.zip
+7=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/Wal/hero.jpg
+8=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/Wal/hero.zip
 9=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/ab.jpg
 10=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/ab.zip
 11=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/and.jpg

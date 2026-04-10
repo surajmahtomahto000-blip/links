@@ -11,4 +11,4 @@
 11=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/and.jpg
 12=https://raw.githubusercontent.com/surajmahtomahto000-blip/Super/main/and.zip
 13=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/tvid1.jpg
-14=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/tvid1.zip
+14=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid1.zip

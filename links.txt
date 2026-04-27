@@ -14,3 +14,10 @@
 14=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid1.zip
 15=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/tvid3.jpg
 16=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid4.zip
+17=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/tvid4.jpg
+18=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid5.zip
+19=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/tvid5.jpg
+20=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid6.zip
+21=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/tvid6.jpg
+22=https://raw.githubusercontent.com/surajmahtomahto000-blip/Wal/main/vid7.zip
+
